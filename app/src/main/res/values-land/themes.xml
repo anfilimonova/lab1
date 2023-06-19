@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Landscape">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:gravity">bottom|end</item>
+        <item name="android:text">@string/orient_horizontal</item>
+    </style>
+
+</resources>

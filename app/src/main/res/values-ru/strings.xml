@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Приложение Разметка</string>
+    <string name="name">Филимонова Анастасия Николаевна</string>
+    <string name="course">Математика и информационные технологии (математическое и программное обеспечение мобильных устройств)</string>
+    <string name="orient_horizontal">Горизонтальное положение</string>
+    <string name="orient_vertical">Вертикальное положение</string>
+</resources>
